@@ -1,0 +1,1 @@
+window.__NUXT__=(function(a){return {staticAssetsBase:"\u002F_nuxt\u002Fstatic\u002F1606668746",layout:"default",error:{statusCode:404,path:a,message:"This page could not be found"},serverRendered:false,routePath:a,config:{}}}("\u002Fhttps:\u002Fgithub.com\u002FClementEoche\u002Fclementeoche.github.io\u002Fkanban"));
